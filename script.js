@@ -1,7 +1,7 @@
 /* 
 CHALLENGE:
 
-Write a javascript code to randomize number within the range of 0 to 50
+Write a javascript code to randomize number within the range of 10 to 50
 */
 
 function radomizedNum(minValue, maxValue) {
